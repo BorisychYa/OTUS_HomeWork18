@@ -186,6 +186,12 @@
 							<ContextMenu name="РодительКонтекстноеМеню" id="22"/>
 							<ExtendedTooltip name="РодительExtendedTooltip" id="45"/>
 						</InputField>
+						<InputField name="ОсновнойМенеджер" id="118">
+							<DataPath>Объект.ОсновнойМенеджер</DataPath>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="ОсновнойМенеджерКонтекстноеМеню" id="119"/>
+							<ExtendedTooltip name="ОсновнойМенеджерРасширеннаяПодсказка" id="120"/>
+						</InputField>
 						<UsualGroup name="ГруппаВидЦенИНовыйРасчетныйСчет" id="78">
 							<Title>
 								<v8:item>
